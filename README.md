@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielitoIV
-- 👀 I’m interested in phyton and php
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested on software development
+- 🌱 I’m currently learning Phyton, GDScript, PHP & MySQL
 - 📫 How to reach me Danielito#2003
 
 <!---

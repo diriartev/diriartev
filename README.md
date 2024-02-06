@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @DanielitoIV
 - 👀 I’m interested on Ethical Hacking & Pentesting
-- 🌱 I’m currently learning at random courses
-- 📫 How to reach me Iri#2942
+- 🌱 I’m currently learning about Cibersecurity

@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @diriartev
-- 👀 I’m interested on Ethical Hacking & Pentesting
-- 🌱 I’m currently learning about Cibersecurity
+Information Security Engineering student | Cybersecurity & IT | Junior / Trainee | Remote
+Interested in cybersecurity, networking, Linux and continuous learning

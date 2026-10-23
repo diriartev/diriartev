@@ -1,1 +1,1 @@
-[![Mis Habilidades](https://skillicons.dev/icons?i=js,python,docker,git)](https://skillicons.dev)
+[![Mis Habilidades](https://skillicons.dev/icons?i=js,python,docker)](https://skillicons.dev)

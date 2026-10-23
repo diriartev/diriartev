@@ -1,2 +1,1 @@
-Information Security Engineering student | Cybersecurity & IT | Junior / Trainee | Remote
-Interested in cybersecurity, networking, Linux and continuous learning
+[![Mis Habilidades](https://skillicons.dev/icons?i=js,python,react,docker,aws,git)](https://skillicons.dev)

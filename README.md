@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,py,js,ts,docker,ansible,cloudflare,git,github,githubactions,mysql,elasticsearch,nginx,kali&perline=15" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,py,js,ts,docker,ansible,cloudflare,git,github,mysql,elasticsearch,nginx,kali&perline=15" alt="Skills and tools"/>
   </a>
 </p>
 

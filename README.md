@@ -63,7 +63,7 @@
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub"/>
   </a>
   <a href="mailto:danieljoseirivargas@gmail.com">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/gmail.svg" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
   </a>
 </p>
 

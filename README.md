@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00b4d8&height=200&section=header&text=Daniel%20Iriarte&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Information%20Security%20Engineering%20%7C%20Offensive%20Security%20%7C%20DevSecOps&descSize=16&descAlignY=58&animation=fadeIn" alt="Daniel Iriarte banner" width="100%"/>
 </a>
 
-<h1 align="center">Hi, I'm Daniel Iriarte! 👋</h1>
+<h1 align="center">Hi, I'm Daniel Iriarte (Iri)! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/diriartev">
@@ -44,11 +44,11 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=diriartev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=diriartev&show_icons=true&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true&count_private=true" alt="GitHub stats" width="100%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diriartev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diriartev&layout=compact&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="Top languages" width="100%"/>
 
-<img src="https://streak-stats.demolab.com?user=diriartev&theme=tokyonight&hide_border=true" alt="GitHub streak" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=diriartev&background=30,0D1117,0F3460&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak" width="100%"/>
 
 </td>
 <td width="50%" valign="top">
@@ -82,6 +82,7 @@ I'm currently growing into <b>DevSecOps</b>: infrastructure as code, hardening w
   <li>🐞 Reached HackerOne <b>Level 2 Milestone</b> and found an access-code bypass in a popular Android app.</li>
   <li>🍯 I run my own <b>honeypot</b> to study real attacker and bot traffic.</li>
   <li>🏗️ Built a multi-site <b>SOC homelab</b> (Proxmox HA, Wazuh, Zabbix, GLPI, Cloudflare Zero Trust) with my team.</li>
+  <li>🤝 Part of the <b>BSides Pereira</b> community.</li>
 </ul>
 
 </td>
@@ -91,12 +92,12 @@ I'm currently growing into <b>DevSecOps</b>: infrastructure as code, hardening w
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-  <a href="https://github.com/diriartev/vintum-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=vintum-infra&theme=tokyonight&hide_border=true" alt="vintum-infra"/></a>
-  <a href="https://github.com/diriartev/centinela"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=centinela&theme=tokyonight&hide_border=true" alt="centinela"/></a>
+  <a href="https://github.com/diriartev/vintum-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=vintum-infra&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="vintum-infra"/></a>
+  <a href="https://github.com/diriartev/centinela"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=centinela&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="centinela"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/diriartev/ci-seguro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ci-seguro&theme=tokyonight&hide_border=true" alt="ci-seguro"/></a>
-  <a href="https://github.com/diriartev/voces-tts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=voces-tts&theme=tokyonight&hide_border=true" alt="voces-tts"/></a>
+  <a href="https://github.com/diriartev/ci-seguro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ci-seguro&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="ci-seguro"/></a>
+  <a href="https://github.com/diriartev/voces-tts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=voces-tts&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="voces-tts"/></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0f3460,100:0d1117&height=120&section=footer" alt="footer" width="100%"/>

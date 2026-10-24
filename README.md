@@ -99,5 +99,10 @@ I'm currently growing into <b>DevSecOps</b>: infrastructure as code, hardening w
   <a href="https://github.com/diriartev/ci-seguro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ci-seguro&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="ci-seguro"/></a>
   <a href="https://github.com/diriartev/voces-tts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=voces-tts&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="voces-tts"/></a>
 </p>
+<p align="center">
+  <a href="https://github.com/diriartev/ivnonym-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ivnonym-downloader&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="ivnonym-downloader"/></a>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0f3460,100:0d1117&height=120&section=footer" alt="footer" width="100%"/>
+<a href="https://github.com/diriartev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0f3460,100:0d1117&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=68&desc=Securing%20systems%2C%20one%20lab%20at%20a%20time&descSize=15&descAlignY=88&animation=fadeIn" alt="Thanks for visiting" width="100%"/>
+</a>

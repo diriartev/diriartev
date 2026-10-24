@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3460,100:00b4d8&height=200&section=header&text=Daniel%20Iriarte&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Information%20Security%20Engineering%20%7C%20Offensive%20Security%20%7C%20DevSecOps&descSize=16&descAlignY=58&animation=fadeIn" alt="Daniel Iriarte banner" width="100%"/>
 </a>
 
-<h1 align="center">Hi, I'm Daniel Iriarte (Iri)! 👋</h1>
+<h1 align="center">Hi, I'm Daniel Iriarte! 👋</h1>
 
 <p align="center">
   <a href="https://github.com/diriartev">
@@ -82,7 +82,6 @@ I'm currently growing into <b>DevSecOps</b>: infrastructure as code, hardening w
   <li>🐞 Reached HackerOne <b>Level 2 Milestone</b> and found an access-code bypass in a popular Android app.</li>
   <li>🍯 I run my own <b>honeypot</b> to study real attacker and bot traffic.</li>
   <li>🏗️ Built a multi-site <b>SOC homelab</b> (Proxmox HA, Wazuh, Zabbix, GLPI, Cloudflare Zero Trust) with my team.</li>
-  <li>🤝 Part of the <b>BSides Pereira</b> community.</li>
 </ul>
 
 </td>

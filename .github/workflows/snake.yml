@@ -32,7 +32,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_LOGIN: ${{ github.repository_owner }}
-          OUT_DIR: dist
+          OUT_DIR: stats-out
+
+      - name: Collect stats SVGs
+        # dist/ is created by the snk container as root
+        run: sudo cp stats-out/*.svg dist/
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

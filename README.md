@@ -132,7 +132,16 @@ Text-to-speech converter to create videos with AI voices, 100% local and simple.
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" valign="top">
+<td width="50%" valign="top">
+
+### 🚩 [ctf-writeups](https://github.com/diriartev/ctf-writeups)
+
+Step-by-step CTF writeups (in Spanish) with PoCs and remediation: heap exploitation with House of Apple 2, ECDSA lattice attacks, IDOR, PyYAML RCE and more.
+
+<sub>Pwn · Crypto · Web · Mobile · Fluid Attacks CTF 2026</sub>
+
+</td>
+<td width="50%" valign="top">
 
 ### 📥 [ivnonym-downloader](https://github.com/diriartev/ivnonym-downloader)
 

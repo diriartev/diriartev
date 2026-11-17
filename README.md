@@ -90,17 +90,59 @@ I'm currently growing into <b>DevSecOps</b>: infrastructure as code, hardening w
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-<p align="center">
-  <a href="https://github.com/diriartev/vintum-infra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=vintum-infra&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="vintum-infra"/></a>
-  <a href="https://github.com/diriartev/centinela"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=centinela&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="centinela"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/diriartev/ci-seguro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ci-seguro&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="ci-seguro"/></a>
-  <a href="https://github.com/diriartev/voces-tts"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=voces-tts&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="voces-tts"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/diriartev/ivnonym-downloader"><img src="https://github-readme-stats.vercel.app/api/pin/?username=diriartev&repo=ivnonym-downloader&bg_color=30,0d1117,0f3460&title_color=00b4d8&text_color=c9d1d9&icon_color=00b4d8&ring_color=00b4d8&hide_border=true" alt="ivnonym-downloader"/></a>
-</p>
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [vintum-infra](https://github.com/diriartev/vintum-infra)
+
+Multi-site Proxmox cluster with real HA (ZFS, QDevice, SDN VXLAN over Cloudflare WARP), Zabbix + Elastic, GLPI with automated alerts and Zero Trust. Real incidents documented.
+
+<sub>Proxmox · ZFS · Zabbix · Elastic · GLPI · Cloudflare</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🍯 [centinela](https://github.com/diriartev/centinela)
+
+Ansible-hardened honeypot with zero open ports (Cloudflare Tunnel + Zero Trust), isolated containers, Elastic SIEM, Prometheus/Grafana, AIDE + auditd and Telegram alerts.
+
+<sub>Ansible · Docker · Elastic · Grafana · Python</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [ci-seguro](https://github.com/diriartev/ci-seguro)
+
+CI/CD pipeline to push projects to GitHub securely, with automated security checks before every push.
+
+<sub>CI/CD · Shell · Git hooks</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ [voces-tts](https://github.com/diriartev/voces-tts)
+
+Text-to-speech converter to create videos with AI voices, 100% local and simple.
+
+<sub>TTS · Shell · Local AI</sub>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
+
+### 📥 [ivnonym-downloader](https://github.com/diriartev/ivnonym-downloader)
+
+Download videos and music from a link, locally and privately.
+
+<sub>HTML · Local-first</sub>
+
+</td>
+</tr>
+</table>
 
 <a href="https://github.com/diriartev">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0f3460,100:0d1117&height=170&section=footer&text=Thanks%20for%20visiting!&fontSize=36&fontColor=ffffff&fontAlignY=68&desc=Securing%20systems%2C%20one%20lab%20at%20a%20time&descSize=15&descAlignY=88&animation=fadeIn" alt="Thanks for visiting" width="100%"/>

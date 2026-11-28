@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="225" viewBox="0 0 495 225" role="img" aria-label="Daniel Iriarte&#x27;s GitHub Stats">
+<title>Daniel Iriarte&#x27;s GitHub Stats</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/><stop offset="100%" stop-color="#0f3460"/>
+  </linearGradient>
+</defs>
+<style>
+  text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; }
+  .t { font-size: 18px; font-weight: 600; fill: #00b4d8; }
+  .l { font-size: 14px; fill: #c9d1d9; }
+  .v { font-size: 14px; font-weight: 700; fill: #c9d1d9; }
+  .m { font-size: 12px; fill: #8b949e; }
+  .big { font-size: 28px; font-weight: 700; fill: #c9d1d9; }
+  .fade { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+</style>
+<rect width="495" height="225" rx="10" fill="url(#bg)"/>
+<text x="25" y="38" class="t">Daniel Iriarte&#x27;s GitHub Stats</text>
+<g class="fade" style="animation-delay:150ms"><path transform="translate(25,58)" fill="#00b4d8" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/><text x="50" y="70" class="l">Total Commits:</text><text x="230" y="70" class="v">288</text></g>
+<g class="fade" style="animation-delay:270ms"><path transform="translate(25,83)" fill="#00b4d8" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/><text x="50" y="95" class="l">Stars Earned:</text><text x="230" y="95" class="v">1</text></g>
+<g class="fade" style="animation-delay:390ms"><path transform="translate(25,108)" fill="#00b4d8" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8Z"/><text x="50" y="120" class="l">Public Repositories:</text><text x="230" y="120" class="v">9</text></g>
+<g class="fade" style="animation-delay:510ms"><path transform="translate(25,133)" fill="#00b4d8" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354Z"/><text x="50" y="145" class="l">Pull Requests:</text><text x="230" y="145" class="v">0</text></g>
+<g class="fade" style="animation-delay:630ms"><path transform="translate(25,158)" fill="#00b4d8" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/><text x="50" y="170" class="l">Issues:</text><text x="230" y="170" class="v">0</text></g>
+<g class="fade" style="animation-delay:750ms"><path transform="translate(25,183)" fill="#00b4d8" d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM5.5 3.5a2 2 0 1 0 0 4 2 2 0 0 0 0-4Z"/><text x="50" y="195" class="l">Followers:</text><text x="230" y="195" class="v">5</text></g>
+<circle cx="395" cy="110" r="50" fill="none" stroke="#21262d" stroke-width="6"/><circle cx="395" cy="110" r="50" fill="none" stroke="#00b4d8" stroke-width="6" stroke-linecap="round" stroke-dasharray="314.2" transform="rotate(-90 395 110)"/><text x="395" y="108" text-anchor="middle" class="big">257</text><text x="395" y="128" text-anchor="middle" class="m">last 365 days</text>
+</svg>
